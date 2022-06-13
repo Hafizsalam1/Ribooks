@@ -1,0 +1,5 @@
+Used Tools:
+Visual Studio Code
+Figma (UI/UX Design)
+React Native (Front End)
+Laravel & Database API (Backend)
